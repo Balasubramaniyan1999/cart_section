@@ -1,0 +1,44 @@
+[
+  {
+    "Brand": "Samsung",
+    "Model": "S22 ultra",
+    "Year": 2022,
+    "Price": 48000,
+    "OS": "Android"
+  },
+  {
+    "Brand": "Apple",
+    "Model": "13 max",
+    "Year": 2022,
+    "Price": 98000,
+    "OS": "ios"
+  },
+  {
+    "Brand": "Redmi",
+    "Model": "Note 10",
+    "Year": 2022,
+    "Price": 28000,
+    "OS": "Android"
+  },
+  {
+    "Brand": "OnePlus",
+    "Model": "Nord 10",
+    "Year": 2022,
+    "Price": 55000,
+    "OS": "Android"
+  },
+  {
+    "Brand": "vivo",
+    "Model": "v17",
+    "Year": 2022,
+    "Price": 11000,
+    "OS": "Android"
+  },
+  {
+    "Brand": "oppo",
+    "Model": "A12",
+    "Year": 2022,
+    "Price": 18000,
+    "OS": "Android"
+  }
+]
